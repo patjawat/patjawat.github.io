@@ -3131,7 +3131,7 @@ textarea.form-control.is-invalid {
     -ms-user-select: none;
     user-select: none;
     background-color: transparent;
-    border: 2px solid transparent;
+    border: 1px solid transparent;
     padding: .6rem 2.25rem;
     font-size: 1rem;
     border-radius: 3rem;
